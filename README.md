@@ -21,7 +21,7 @@ https://youtu.be/UlQ4MDCcUWU
   * **Default** – normal idle behavior
   * **Happy** – triggered by touch or long-press
   * **Confused** – shown when a notification arrives
-  * **Tired** – enters automatically after inactivity
+  * **Sleepy** – enters automatically after inactivity
 * Natural behaviors like:
 
   * Blinking
